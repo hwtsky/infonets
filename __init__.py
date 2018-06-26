@@ -6,3 +6,5 @@ from .code import misc
 from .code import models
 from .code import nn
 from .code import utils
+
+__version__ = '0.0.1'
