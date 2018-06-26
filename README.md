@@ -1,7 +1,7 @@
 # <p align="center">InfoNets
 By Wentao Huang
 
-  InfoNets is a Pytorch-based Python package that provides a high-level neural networks API and the efficiency algorithm for deep learning which is not based on the traditional BP (Back Propagation) algorithm. 
+  InfoNets is a Pytorch-based Python package that provides a high-level neural networks API and the efficiency algorithms for deep learning which is not based on the traditional BP (Back Propagation) algorithm. 
 
 TensorFlow, Pytorch and other opensource deep learning software frameworks provide great convenience for current deep learning researchers and developers, and make it easy to study and develop deep learning related algorithms and products. However, they only provide good encapsulation and support for traditional deep learning that is based on BP (Back Propagation) algorithm, and it is not very convenient for non-BP-based deep learning method. 
 
