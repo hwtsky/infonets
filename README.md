@@ -1,4 +1,4 @@
-# InfoNets
+# <p align="center">InfoNets
 
  Google的TensorFlow、Facebook的Pytorch等开源深度学习软件框架为当前深度学习研究与开发人员提供了极大的方便，
 让研究与开发深度学习相关算法及产品变得很容易，能让研发的算法与程序很方便地运行于CPU及GPU上。
